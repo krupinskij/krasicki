@@ -1,0 +1,22 @@
+---
+import type { Part } from '../../model';
+import Fable from '../../components/Fable.astro';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const parts: Part[] = await Astro.glob("/src/assets/*.json");
+
+  return parts.map(({ id, fables }) => ({
+    params: { id },
+    props: { fables }
+  }))
+}
+
+const { id } = Astro.params;
+const { fables } = Astro.props;
+
+---
+
+<Layout title={`Bajki i Przypowieści | Część ${id}`}>
+  { fables.map(fable => <Fable {...fable} />) }
+</Layout>

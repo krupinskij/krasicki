@@ -1,0 +1,140 @@
+{
+  "id": 1,
+  "fables": [
+    {
+      "id": 1,
+      "title": "Abuzej i Tair",
+      "content": "Winszuj ojcze, rzekł Tair, w dobrym jestem stanie,\nJutrom szwagier sułtana, i na polowanie\nZ nim wyjeżdżam. Rzekł ojciec: wszystko to odmienne,\nŁaska pańska, gust kobiet, pogody jesienne.\nJakoż zgadł; piękny projekt wcale się nie nadał:\nSułtan siostrę odmówił, cały dzień deszcz padał."
+    },
+    {
+      "id": 2,
+      "title": "Potok i Rzeka",
+      "content": "Potok z wierzchołka góry płynący z hałasem,\nŚmiał się z rzeki; spokojnie płynęła tymczasem.\nNie stało wód u góry, gdy śniegi stopniały,\nAż z owego potoku strumyk tylko mały.\nCo gorsza: ten, co zaczął z hałasem i krzykiem,\nWpadł w rzekę, i nakoniec przestał być strumykiem."
+    },
+    {
+      "id": 3,
+      "title": "Papuga i Wiewiórka",
+      "content": "Młoda jedna papuga, piękna, okazała,\nLepiej jeszcze od pani swojej szczebiotała,\nStąd plotki; bo co tylko zdrożnego postrzegła,\nZaraz z nową powieścią do jejmości biegła.\nByła tam i wiewiórka wychowana z ptaszki,\nTa tylko pilnowała skoków i igraszki.\nŻyły w zgodzie, co rzadka, zwłaszcza przez czas długi,\nPani ptaka kochała, a wiewiórkę sługi.\nWidząc, że jej nie lubią, raz papuga rzekła:\nRadabym tej niechęci przyczyny dociekła.\nRzecze na to wiewiórka: przyczyny nie badaj,\nTak rób, jak ja: baw panią, a nie wiele gadaj."
+    },
+    {
+      "id": 4,
+      "title": "Lis młody i stary",
+      "content": "Młody lis nieświadomy myśliwych rzemiosła,\nCieszył się, że sierść nowa na zimę odrosła.\nRzekł stary: bezpieczeństwo tych ozdób nie lubi;\nNie masz się z czego cieszyć, ta nas piękność gubi."
+    },
+    {
+      "id": 5,
+      "title": "Kulawy i Ślepy",
+      "content": "Niosł ślepy kulawego, dobrze im się działo;\nAle że to ślepemu nieznośno się zdało,\nIż musiał zawsze słuchać, co kulawy prawi;\nWziął kij w rękę: ten, rzecze, z szwanku nas wybawi.\nIdą; a wtem kulawy krzyknie: umknij w lewo!\nŚlepy wprost; i choć z kijem, uderzył łbem w drzewo.\nIdą dalej; kulawy przestrzega od wody;\nŚlepy w bród; sakwy zmaczał, nie wyszli bez szkody.\nNakoniec przestrzeżony, gdy nie mijał dołu,\nI ślepy i kulawy zginęli pospołu.\nI ten winien, co kijem bezpieczeństwo mierzył,\nI ten, co bezpieczeństwo głupiemu powierzył."
+    },
+    {
+      "id": 6,
+      "title": "Orzeł i Jastrząb",
+      "content": "Orzeł nie chcąc się podłem polowaniem bawić,\nPostanowił jastrzębia na wróble wyprawić.\nPrzynosił jastrząb wróble, jadł je orzeł smacznie;\nZaprawiony nakoniec przysmaczkiem nieznacznie,\nKiedy go coraz żywszy apetyt przenika;\nZjadł ptaszka na śniadanie, na obiad ptasznika."
+    },
+    {
+      "id": 7,
+      "title": "Ojciec łakomy, Syn rozrzutny",
+      "content": "Zawżdy się zbytek kończy doświadczeniem smutnym.\nPłakał ojciec łakomy nad synem rozrzutnym.\nUmarli oba z głodu, każdy z nich zasłużył:\nSyn, że nadto używał, ojciec, że nie użył."
+    },
+    {
+      "id": 8,
+      "title": "Szczur i Kot",
+      "content": "Mnie to kadzą, rzekł hardzie do swego rodzeństwa,\nSiedząc szczur na ołtarzu podczas nabożeństwa.\nWtem gdy się dymem kadzidł zbytecznych zakrztusił,\nWpadł kot z boku na niego, porwał i udusił."
+    },
+    {
+      "id": 9,
+      "title": "Ocean i Tagus rzeka",
+      "content": "Ocean niezmiernością swoją zbyt zuchwały,\nGardzić począł rzekami, które weń wpływały.\nPrzestańcie, mówił do nich, dodawać mi wody.\nRzekł Tagus, daj nam pokój; dla twojej wygody,\nDla twojej wspaniałości żyzną ziemię porzem.\nGdybym ja nie był rzeką, nie byłbyś ty morzem."
+    },
+    {
+      "id": 10,
+      "title": "Zrzebiec i Koń stary",
+      "content": "Gdy starszych przybierano w pozłacane rzędy,\nGniewał się młody zrzebiec na takowe względy.\nPrzyszła kolej na niego, z początku był hardy,\nAż kiedy w pysku poczuł munsztuk nader twardy,\nGdy jeźdźca przyszło dźwigać, znosić rzemień tęgi,\nGdy go ściskać poczęły dychtowne popręgi,\nW płacz nieborak, a stary: na co ten płacz zda się?\nChciałeś, cierpże. Żal próżny, kiedy po niewczasie."
+    },
+    {
+      "id": 11,
+      "title": "Dwa Żółwie",
+      "content": "Nie żałując sił własnych i ciężkiej fatygi,\nDwa żółwie pod zakładem poszły na wyścigi,\nNim połowę do mety drogi ubieżeli,\nSpektatorowie poszli, sędziowie zasnęli.\nWięc rzekła im jaskółka: lepiej się pogodzić,\nPierwej, niżeli biegać, nauczcie się chodzić."
+    },
+    {
+      "id": 12,
+      "title": "Pszczoła i Szerszeń",
+      "content": "Idź precz od nas, próżniaku, niegodzien żywienia,\nMówiła, żądłem grożąc, pszczoła do szerszenia.\nPrawdę mówisz, rzekł szerszeń, i mnie to obchodzi.\nAle, żeś pracowitsza, czyż się łajać godzi?\nJestem w nędzy, lepiej się nademną użalić,\nNiżeli żądłem straszyć i samej się chwalić."
+    },
+    {
+      "id": 13,
+      "title": "Baran dany na ofiarę",
+      "content": "Widząc, że wieńce kładą, że mu rogi złocą,\nPysznił się tłusty baran, sam nie wiedział o co.\nAż gdy postrzegł oprawcę, a ten powróz bierze,\nAby go poniewolnie ciągnął ku ofierze;\nPoznał swój błąd; rad nie rad wypełnił los srogi:\nNie pomogły mu wieńce i złocone rogi."
+    },
+    {
+      "id": 14,
+      "title": "Doktor",
+      "content": "Doktor, widząc, iż mu się lekarstwo udało,\nChciał go często powtarzać; cóż się z chorym stało?\nZa drugim, trzecim razem, bardzo go osłabił,\nZa czwartym jeszcze bardziej, a za piątym zabił."
+    },
+    {
+      "id": 15,
+      "title": "Strzelec i Pies",
+      "content": "Uciekł wyżeł od strzelca, błąkał się dni kilka,\nNakoniec znalazł pana, i przystał do wilka.\nGonił sarny, zające, do kaczek się skradał;\nAle, co tylko zdobył, wszystko to pan zjadał.\nZła to służba, rzekł zatem, gdzie korzyść nie czeka,\nBił pan dawny, lecz karmił; wróćmy się do człeka."
+    },
+    {
+      "id": 16,
+      "title": "Bryła lodu i Kryształ",
+      "content": "Bryła lodu spłodzona z kałuży bagnistej\nGniewała się na kryształ, że był przezroczysty.\nModli się więc do słońca. Słońce zajaśniało,\nSklni się bryła, ale jej coraz ubywało.\nI tak chcąc los polepszyć niewczesnym kłopotem,\nStajała, wsiąkła w bagno, i stała się błotem."
+    },
+    {
+      "id": 17,
+      "title": "Stary Pies i stary Sługa",
+      "content": "Póki gonił zające, póki kaczki znosił,\nKasztan, co chciał, u pana swojego wyprosił.\nZstarzał się: aż z owego pańskiego pieścidła,\nPsisko stare, niezdatne, oddano do bydła.\nWidząc, że pies nieborak oblizuje kości,\nŻywił go stary szafarz, niegdyś podstarości."
+    },
+    {
+      "id": 18,
+      "title": "Syn i Ojciec",
+      "content": "Każdy wiek ma goryczy, ma swoje przywary.\nSyn się męczył nad xiążką, stękał ojciec stary:\nTen nie miał odpoczynku, a tamten swobody.\nPłakał ojciec, że stary; płakał syn, że młody."
+    },
+    {
+      "id": 19,
+      "title": "Osieł i Baran",
+      "content": "Klął osieł los okrutny, że marznął na mrozie.\nRzekł mu baran, trzymany tamże na powrozie:\nNie bluźń bogów, w żądaniach płochy i niebaczny:\nWidzisz przy mnie rzeźnika! dziękuj, żeś niesmaczny."
+    },
+    {
+      "id": 20,
+      "title": "Mysz i Kot",
+      "content": "Mysz, dla tego, że niegdyś całą xiążkę zjadła,\nRozumiała, iż wszystkie rozumy posiadła.\nRzekła więc towarzyszkom: nędzę waszą skrócę,\nSpuśćcie się tylko na mnie, ja kota nawrócę.\nPosłano więc po kota; kot zawżdy gotowy,\nNie uchybił minuty, stanął do rozmowy.\nZaczęła mysz exortę; kot jej pilnie słuchał,\nWzdychał, płakał!... Ta widząc, iż się udobruchał,\nJeszcze bardziej wpadała w kaznodziejski zapał,\nWysunęła się z dziury. A wtem ją kot złapał."
+    },
+    {
+      "id": 21,
+      "title": "Ptaszki w klatce",
+      "content": "Czegoż płaczesz? staremu mówił czyżyk młody,\nMasz teraz lepsze w klatce, niż w polu wygody;\nTyś w niej zrodzon, rzekł stary, przeto ci wybaczę;\nJam był wolny, dziś w klatce, i dla tego płaczę."
+    },
+    {
+      "id": 22,
+      "title": "Osieł i Wół",
+      "content": "Osieł podczas upału szukając ochłody,\nPostrzegł, iż pasterz bydło prowadził do wody.\nZbudował się z takowej dobroci człowieka,\nA gdy przyczyn postępku tego nie docieka,\nRzekł mu wół: cudzy przykład niechaj cię nauczy,\nSiebie on, nie nas kocha: żeby zarżnął, tuczy."
+    },
+    {
+      "id": 23,
+      "title": "Dąb i Dynia",
+      "content": "Kiedy czas przyzwoity do dojźrzenia nastał,\nPytała dynia dębu, jak też długo wzrastał?\nSto lat. Jam w sto dni zeszła taką, jak mnie widzisz,\nRzekła dynia. Dąb na to: próżno ze mnie szydzisz;\nPięknaś prawda na pozór, na pozór też słyniesz,\nJakeś prędko urosła, tak też prędko zginiesz."
+    },
+    {
+      "id": 24,
+      "title": "Derwisz i Uczeń",
+      "content": "Pewien derwisz uczony, rano i w południe\nCodzień pił świętą wodę z Mahometa studnie.\nPostrzegł to uczeń, a chcąc większym być doktorem,\nCzerpał z tej studni rano, w południe, wieczorem.\nCóż się stało? gdy mniemał, że już mędrcem został,\nI nic się nie nauczył, i puchliny dostał."
+    },
+    {
+      "id": 25,
+      "title": "Podróżny i Kaleka",
+      "content": "Nie skarżyłem na ludzi, nie skarżył na losy,\nChoć musiałem iść w drogę ubogi i bosy.\nWtem gdy razu jednego do kościoła wchodzę,\nPostrzegłem, leży żebrak bez nogi na drodze.\nNauczył mnie tym bardziej milczyć ów ubogi:\nLepiej mnie bez obuwia, niż jemu bez nogi."
+    },
+    {
+      "id": 26,
+      "title": "Lew i Zwierzęta",
+      "content": "Lew, ażeby dał dowód, jak wielce łaskawy,\nPrzypuszczał konfidentów do swojej zabawy.\nPolowali z nim razem, a na znak miłości,\nOn jadł mięso, kompanom ustępował kości.\nGdy się więc dobroć taka rozgłosiła wszędy,\nChcąc im jawnie pokazać większe jeszcze względy,\nAżeby się na jego łasce nie zawiedli,\nPozwolił, by jednego z pośród siebie zjedli.\nPo pierwszym, poszedł drugi, i trzeci i czwarty.\nWidząc, że się podpaśli, lew choć nieobżarty,\nŻeby ująć drapieży, a sobie zakału,\nDla kary, dla przykładu, zjadł wszystkich pomału."
+    },
+    {
+      "id": 27,
+      "title": "Rybka mała i Szczupak",
+      "content": "Widząc w wodzie robaka rybka jedna mała,\nŻe go połknąć nie mogła, wielce żałowała.\nNadszedł szczupak, robak się przed nim nie osiedział.\nPołknął go, a z nim haczyk, o którym nie wiedział.\nGdy rybak na brzeg ciągnął korzyść okazałą,\nRzekła rybka: dobrze to czasem być i małą."
+    }
+  ]
+}
