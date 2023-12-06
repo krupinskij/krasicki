@@ -1,7 +1,7 @@
 ---
-import type { Part } from '../../model';
-import Fable from '../../components/Fable.astro';
-import Layout from '../../layouts/Layout.astro';
+import type { Part } from '@model';
+import Fable from '@components/Fable.astro';
+import Layout from '@layouts/Layout.astro';
 
 export async function getStaticPaths() {
   const parts: Part[] = await Astro.glob("/src/assets/*.json");
