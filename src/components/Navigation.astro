@@ -1,0 +1,9 @@
+---
+import type { Part } from "@model";
+const parts: Part[] = await Astro.glob("/src/assets/*.json");
+---
+
+<nav>
+  <a href="/">Strona główna</a>
+  { parts.map(part => <a href={`/part/${part.id}`}>Część {part.id}</a>) }
+</nav>
