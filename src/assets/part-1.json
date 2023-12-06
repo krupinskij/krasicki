@@ -2,6 +2,11 @@
   "id": 1,
   "fables": [
     {
+      "id": 0,
+      "title": "Wstęp do bajek",
+      "content": "Był młody, który życie wstrzemięzliwie pędził;\nBył stary, który nigdy nie łajał nie zrzędził;\nBył bogacz, który zbiorów potrzebnym udzielał;\nBył autor, co się z cudzéj sławy rozweselał;\nBył celnik, który nie kradł; szewc, który nie pijał;\nŻołnierz, co się nie chwalił; łotr, co nie rozbijał;\nBył minister rzetelny, o sobie nie myślał;\nBył nakoniec poeta, co nigdy nie zmyślał.\nA cóżto jest za bajka? wszystko to być może;\nPrawda; jednakże ja to między bajki włożę. "
+    },
+    {
       "id": 1,
       "title": "Abuzej i Tair",
       "content": "Winszuj ojcze, rzekł Tair, w dobrym jestem stanie,\nJutrom szwagier sułtana, i na polowanie\nZ nim wyjeżdżam. Rzekł ojciec: wszystko to odmienne,\nŁaska pańska, gust kobiet, pogody jesienne.\nJakoż zgadł; piękny projekt wcale się nie nadał:\nSułtan siostrę odmówił, cały dzień deszcz padał."

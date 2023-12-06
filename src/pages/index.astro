@@ -1,7 +1,28 @@
 ---
+import Card from '@components/Card.astro';
 import Layout from '@layouts/Layout.astro';
+
+const doDzieci = `
+O wy, co wszystkie porzuciwszy względy,
+Za cackiem bieżeć gotowi z zapędy,
+Za cackiem, które zbyt wysoko leci,
+Bajki wam niosę, posłuchajcie dzieci.
+
+Wy, których tylko niestatek żywiołem,
+Co się o fraszki uganiacie wspołem,
+O fraszki, których zysk maże i szpeci,
+Bajki wam niosę, posłuchajcie dzieci.
+
+Wy, którzy marne przybrawszy postaci,
+Baśniami łudzić umiecie współbraci,
+Baśniami, które umysł płochy kleci,
+Bajki wam niosę, posłuchajcie dzieci. 
+`
 ---
 
 <Layout title="Bajki i Przypowieści | Ignacy Krasicki">
-	<main/>
+	<h1 class="text-center text-4xl font-bold mt-12 mb-20">Bajki i Przypowieści - Ignacy Krasicki</h1>
+	<div class="mx-auto w-max">
+		<Card title='Do dzieci' content={doDzieci} />
+	</div>
 </Layout>

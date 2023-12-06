@@ -1,6 +1,6 @@
 ---
 import type { Part } from '@model';
-import Fable from '@components/Fable.astro';
+import Card from '@components/Card.astro';
 import Layout from '@layouts/Layout.astro';
 
 export async function getStaticPaths() {
@@ -18,5 +18,7 @@ const { fables } = Astro.props;
 ---
 
 <Layout title={`Bajki i Przypowieści | Część ${id}`}>
-  { fables.map(fable => <Fable {...fable} />) }
-</Layout>
+  <div class="mx-auto w-max">
+    { fables.map(fable => <Card {...fable} />) }
+  </div>
+  </Layout>
