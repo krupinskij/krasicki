@@ -21,15 +21,15 @@ const { fables, images } = Astro.props;
 ---
 
 <Layout title={`Bajki i Przypowieści | Część ${id}`}>
-  <Image imageData={images[0]} />
+  <Image src={`/src/assets/images/${images[0].filename}`} alt={images[0].alt} />
   <div class="mx-auto my-24 w-max">
     { fables.slice(0, 10).map(fable => <Card {...fable} />) }
   </div>
-  <Image imageData={images[1]} />
+  <Image src={`/src/assets/images/${images[1].filename}`} alt={images[1].alt} />
   <div class="mx-auto my-24 w-max">
     { fables.slice(10, 20).map(fable => <Card {...fable} />) }
   </div>
-  <Image imageData={images[2]} />
+  <Image src={`/src/assets/images/${images[2].filename}`} alt={images[2].alt} />
   <div class="mx-auto my-24 w-max">
     { fables.slice(20).map(fable => <Card {...fable} />) }
   </div>

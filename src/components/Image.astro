@@ -1,16 +1,17 @@
 ---
-import type { ImageData } from '@model';
-import { getImage } from 'astro:assets'
-
+import { Image as AstroImage } from 'astro:assets'
 
 type Props = {
-  imageData: ImageData
+  src: string;
+  alt: string;
 }
 
-const { imageData } = Astro.props;
-const image = await getImage({src: `/src/assets/images/${imageData.filename}`, width: 960, height: 360 });
+const { src: source, alt } = Astro.props;
+
+const images = import.meta.glob<ImageMetadata>('/src/assets/images/*.jpg', { import: "default" })
+const src = await images[source]();
 ---
 
 <div class="w-max mx-auto my-12 overflow-hidden flex items-center">
-  <img src={image.src} alt={imageData.alt} width={960} height={360} class="max-w-[100vw]" />
+  <AstroImage src={src} alt={alt} width={960} height={360} class="max-w-[100vw]" />
 </div>
