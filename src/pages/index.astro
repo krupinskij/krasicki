@@ -1,5 +1,6 @@
 ---
 import Card from '@components/Card.astro';
+import Image from '@components/Image.astro';
 import Layout from '@layouts/Layout.astro';
 
 const doDzieci = `
@@ -22,6 +23,7 @@ Bajki wam niosę, posłuchajcie dzieci.
 
 <Layout title="Bajki i Przypowieści | Ignacy Krasicki">
 	<h1 class="text-center text-4xl font-bold mt-12 mb-20">Bajki i Przypowieści - Ignacy Krasicki</h1>
+	<Image imageData={{ filename: 'fox.jpg', alt: 'Lis'}} />
 	<div class="mx-auto w-max">
 		<Card title='Do dzieci' content={doDzieci} />
 	</div>

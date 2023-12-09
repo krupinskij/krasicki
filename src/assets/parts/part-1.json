@@ -1,5 +1,19 @@
 {
   "id": 1,
+  "images": [
+    {
+      "filename": "parrot.jpg",
+      "alt": "Papuga"
+    },
+    {
+      "filename": "tortoise.jpg",
+      "alt": "Żółw"
+    },
+    {
+      "filename": "donkey.jpg",
+      "alt": "Osioł"
+    }
+  ],
   "fables": [
     {
       "id": 0,

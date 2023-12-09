@@ -1,24 +1,36 @@
 ---
+
 import type { Part } from '@model';
+import Image from '@components/Image.astro';
 import Card from '@components/Card.astro';
 import Layout from '@layouts/Layout.astro';
 
-export async function getStaticPaths() {
-  const parts: Part[] = await Astro.glob("/src/assets/*.json");
 
-  return parts.map(({ id, fables }) => ({
+export async function getStaticPaths() {
+  const parts: Part[] = await Astro.glob("/src/assets/parts/*.json");
+
+  return parts.map(({ id, fables, images }) => ({
     params: { id },
-    props: { fables }
+    props: { fables, images }
   }))
 }
 
 const { id } = Astro.params;
-const { fables } = Astro.props;
+const { fables, images } = Astro.props;
 
 ---
 
 <Layout title={`Bajki i Przypowieści | Część ${id}`}>
-  <div class="mx-auto w-max">
-    { fables.map(fable => <Card {...fable} />) }
+  <Image imageData={images[0]} />
+  <div class="mx-auto my-24 w-max">
+    { fables.slice(0, 10).map(fable => <Card {...fable} />) }
   </div>
-  </Layout>
+  <Image imageData={images[1]} />
+  <div class="mx-auto my-24 w-max">
+    { fables.slice(10, 20).map(fable => <Card {...fable} />) }
+  </div>
+  <Image imageData={images[2]} />
+  <div class="mx-auto my-24 w-max">
+    { fables.slice(20).map(fable => <Card {...fable} />) }
+  </div>
+</Layout>

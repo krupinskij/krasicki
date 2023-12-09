@@ -1,5 +1,19 @@
 {
   "id": 2,
+  "images": [
+    {
+      "filename": "bear.jpg",
+      "alt": "Niedźwiedź"
+    },
+    {
+      "filename": "lion.jpg",
+      "alt": "Lew"
+    },
+    {
+      "filename": "nightingale.jpg",
+      "alt": "Słowik"
+    }
+  ],
   "fables": [
     {
       "id": 1,

@@ -1,5 +1,19 @@
 {
   "id": 4,
+  "images": [
+    {
+      "filename": "bee.jpg",
+      "alt": "Pszczoła"
+    },
+    {
+      "filename": "peacock.jpg",
+      "alt": "Paw"
+    },
+    {
+      "filename": "cat.jpg",
+      "alt": "Kotek"
+    }
+  ],
   "fables": [
     {
       "id": 1,

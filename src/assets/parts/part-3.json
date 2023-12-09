@@ -1,5 +1,19 @@
 {
   "id": 3,
+  "images": [
+    {
+      "filename": "elephant.jpg",
+      "alt": "Słoń"
+    },
+    {
+      "filename": "wolf.jpg",
+      "alt": "Wilk"
+    },
+    {
+      "filename": "owl.jpg",
+      "alt": "Sowa"
+    }
+  ],
   "fables": [
     {
       "id": 1,

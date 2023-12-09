@@ -4,7 +4,13 @@ export type Fable = {
   content: string;
 };
 
+export type ImageData = {
+  filename: string;
+  alt: string;
+};
+
 export type Part = {
   id: number;
+  images: [ImageData, ImageData, ImageData];
   fables: Fable[];
 };
