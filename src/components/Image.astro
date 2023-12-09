@@ -1,14 +1,16 @@
 ---
-import { Image as AstroImage } from 'astro:assets'
+import { Image as AstroImage } from 'astro:assets';
 
 type Props = {
   src: string;
   alt: string;
-}
+};
 
 const { src: source, alt } = Astro.props;
 
-const images = import.meta.glob<ImageMetadata>('/src/assets/images/*.jpg', { import: "default" })
+const images = import.meta.glob<ImageMetadata>('/src/assets/images/*.jpg', {
+  import: 'default',
+});
 const src = await images[source]();
 ---
 

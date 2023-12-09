@@ -1,10 +1,10 @@
 ---
-import type { Part } from "@model";
-import NavigationLink from "./NavigationLink.astro";
-const parts: Part[] = await Astro.glob("/src/assets/parts/*.json");
+import type { Part } from '@model';
+import NavigationLink from './NavigationLink.astro';
+const parts: Part[] = await Astro.glob('/src/assets/parts/*.json');
 ---
 
 <nav class="flex gap-4">
   <NavigationLink href="/">Strona główna</NavigationLink>
-  { parts.map(part => <NavigationLink href={`/part/${part.id}`}>Część {part.id}</NavigationLink>) }
+  {parts.map((part) => <NavigationLink href={`/part/${part.id}`}>Część {part.id}</NavigationLink>)}
 </nav>

@@ -1,12 +1,14 @@
 ---
 type Props = {
   href: string;
-}
+};
 
-const { href } = Astro.props
+const { href } = Astro.props;
 
 const currentPath = new URL(Astro.request.url).pathname;
 const current = currentPath === href;
 ---
 
-<a href={href} class={`font-bold py-4 px-6 hover:bg-gray-200 ${current ? 'bg-gray-100' : ''}`}><slot/></a>
+<a href={href} class={`font-bold py-4 px-6 hover:bg-gray-200 ${current ? 'bg-gray-100' : ''}`}>
+  <slot />
+</a>
